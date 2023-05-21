@@ -1,5 +1,8 @@
 ## word2vec demo
 
+### Reference
+I refer to the [This URL](https://qiita.com/Zect/items/d106d46fc94eaa2ed361)
+
 ### How to Use
 1. Download damp file
 Run src/download.sh
